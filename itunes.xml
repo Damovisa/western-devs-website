@@ -1,0 +1,1988 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xml:lang="en-US">
+	<channel>
+		<title>Western Devs :: Panel discussions on .NET, software practices, and smoked meat</title>
+		<link>http://www.westerndevs.com</link>
+		<atom:link href="http://www.westerndevs.com/itunes.xml" rel="self" type="application/rss+xml" />
+		<language>en-us</language>
+		<copyright>&#x2117; &amp; &#xA9; 2015 Western Devs</copyright>
+		<itunes:subtitle>Semi-regular technical discussions on various topics</itunes:subtitle>
+		<itunes:author>Western Devs</itunes:author>
+		<itunes:summary>A group of software developers, mostly from western Canada, mostly in the Microsoft .NET space, and all west of someplace else get together to discuss topics that tickle their fancy.</itunes:summary>
+		<description>A group of software developers, mostly from western Canada, mostly in the Microsoft .NET space, and all west of someplace else get together to discuss topics that tickle their fancy.</description>
+		<itunes:owner>
+			<itunes:name>Dylan Smith</itunes:name>
+			<itunes:email>dylanfromwinnipeg@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://www.westerndevs.com/images/Western_Dev_V_rgb.png" />
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology" />
+		<pubDate>Thu, 17 Aug 2017 15:02:49 +00:00</pubDate>
+		<lastBuildDate>Thu, 17 Aug 2017 15:02:49 +00:00</lastBuildDate>
+		<generator>Hexo</generator>
+		<managingEditor>dylanfromwinnipeg@gmail.com (Dylan Smith)</managingEditor>
+		
+			<item>
+				<title>Developer Health</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 15 Aug 2017 21:02:36 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Developer-Health</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dealing with &amp;quot;you have to do this for the rest of your  life&amp;quot;&lt;/li&gt;
+&lt;li&gt;Evaluating consumption&lt;/li&gt;
+&lt;li&gt;Cross-fit is &lt;s&gt;fun&lt;/s&gt; a thing&lt;/li&gt;
+&lt;li&gt;Maintaining motivation&lt;/li&gt;
+&lt;li&gt;Creating measurable and appropriate goals&lt;/li&gt;
+&lt;li&gt;Combining exercise with work&lt;/li&gt;
+&lt;li&gt;Weight vs. body fat&lt;/li&gt;
+&lt;li&gt;Tweaking the metrics&lt;/li&gt;
+&lt;li&gt;Importance of having a plan&lt;/li&gt;
+&lt;li&gt;The motivation of being yelled at&lt;/li&gt;
+&lt;li&gt;Find a community&lt;/li&gt;
+&lt;li&gt;Outsourcing your health plan&lt;/li&gt;
+&lt;li&gt;Keeping it simple and creating habits&lt;/li&gt;
+&lt;li&gt;Using technology&lt;/li&gt;
+&lt;li&gt;Measuring regularly&lt;/li&gt;
+&lt;li&gt;The challenge of eating properly when you work from home&lt;/li&gt;
+&lt;li&gt;Getting your kids involved&lt;/li&gt;
+&lt;li&gt;The psychology of hunger&lt;/li&gt;
+&lt;li&gt;Activities performed by Western Devs in the making of this episode: running, cross-fit, hockey, boxing, weights, tennis, devopsing, microservicing, and competitive breathing.&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Dealing with &amp;quot;you have to do this for the rest of your  life&amp;quot;&lt;/li&gt;
+&lt;li&gt;Evaluating consumption&lt;/li&gt;
+&lt;li&gt;Cross-fit is &lt;s&gt;fun&lt;/s&gt; a thing&lt;/li&gt;
+&lt;li&gt;Maintaining motivation&lt;/li&gt;
+&lt;li&gt;Creating measurable and appropriate goals&lt;/li&gt;
+&lt;li&gt;Combining exercise with work&lt;/li&gt;
+&lt;li&gt;Weight vs. body fat&lt;/li&gt;
+&lt;li&gt;Tweaking the metrics&lt;/li&gt;
+&lt;li&gt;Importance of having a plan&lt;/li&gt;
+&lt;li&gt;The motivation of being yelled at&lt;/li&gt;
+&lt;li&gt;Find a community&lt;/li&gt;
+&lt;li&gt;Outsourcing your health plan&lt;/li&gt;
+&lt;li&gt;Keeping it simple and creating habits&lt;/li&gt;
+&lt;li&gt;Using technology&lt;/li&gt;
+&lt;li&gt;Measuring regularly&lt;/li&gt;
+&lt;li&gt;The challenge of eating properly when you work from home&lt;/li&gt;
+&lt;li&gt;Getting your kids involved&lt;/li&gt;
+&lt;li&gt;The psychology of hunger&lt;/li&gt;
+&lt;li&gt;Activities performed by Western Devs in the making of this episode: running, cross-fit, hockey, boxing, weights, tennis, devopsing, microservicing, and competitive breathing.&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-name.mp3" length="45838670" type="audio/mpeg" />
+				
+				<itunes:duration>48:40</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Transparency</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 09 May 2017 23:25:00 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Transparency</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;University of Waterloo salary adjustment&lt;/li&gt;
+&lt;li&gt;Transparency as a means to resolve the gender gap&lt;/li&gt;
+&lt;li&gt;Problems that go away when salaries are publicized&lt;/li&gt;
+&lt;li&gt;How do you account for high performers who demand more?&lt;/li&gt;
+&lt;li&gt;Pros and cons of salary bands&lt;/li&gt;
+&lt;li&gt;The White House diversity pledge&lt;/li&gt;
+&lt;li&gt;Preparing for transparency&lt;/li&gt;
+&lt;li&gt;Why are North Americans so squeamish about discussing salary?&lt;/li&gt;
+&lt;li&gt;Advantages for companies not having to compete on salary&lt;/li&gt;
+&lt;li&gt;The effect of an information-based economy vs. a widget-based economy&lt;/li&gt;
+&lt;li&gt;&amp;quot;All else being equal&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;University of Waterloo salary adjustment&lt;/li&gt;
+&lt;li&gt;Transparency as a means to resolve the gender gap&lt;/li&gt;
+&lt;li&gt;Problems that go away when salaries are publicized&lt;/li&gt;
+&lt;li&gt;How do you account for high performers who demand more?&lt;/li&gt;
+&lt;li&gt;Pros and cons of salary bands&lt;/li&gt;
+&lt;li&gt;The White House diversity pledge&lt;/li&gt;
+&lt;li&gt;Preparing for transparency&lt;/li&gt;
+&lt;li&gt;Why are North Americans so squeamish about discussing salary?&lt;/li&gt;
+&lt;li&gt;Advantages for companies not having to compete on salary&lt;/li&gt;
+&lt;li&gt;The effect of an information-based economy vs. a widget-based economy&lt;/li&gt;
+&lt;li&gt;&amp;quot;All else being equal&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-name.mp3" length="38458238" type="audio/mpeg" />
+				
+				<itunes:duration>42:02</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Working From Home</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sun, 23 Apr 2017 20:43:26 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/working-from-home</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Round table: Who works from home?&lt;/li&gt;
+&lt;li&gt;What hours do you keep?&lt;/li&gt;
+&lt;li&gt;Handling meetings&lt;/li&gt;
+&lt;li&gt;Separating work time from home time&lt;/li&gt;
+&lt;li&gt;The importance of a routine&lt;/li&gt;
+&lt;li&gt;Interruptions&lt;/li&gt;
+&lt;li&gt;Ensuring you put in the hours&lt;/li&gt;
+&lt;li&gt;Do you account for water cooler time?&lt;/li&gt;
+&lt;li&gt;Remote friendly vs. remote first organizations&lt;/li&gt;
+&lt;li&gt;Training your family&lt;/li&gt;
+&lt;li&gt;Are you lonely?&lt;/li&gt;
+&lt;li&gt;Getting out of the house&lt;/li&gt;
+&lt;li&gt;Competing globally&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;li&gt;Do you have to work from &lt;em&gt;home&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;Vacation&lt;/li&gt;
+&lt;li&gt;Co-working spaces&lt;/li&gt;
+&lt;li&gt;Staying focused&lt;/li&gt;
+&lt;li&gt;Do you even eat (healthy), bro?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Round table: Who works from home?&lt;/li&gt;
+&lt;li&gt;What hours do you keep?&lt;/li&gt;
+&lt;li&gt;Handling meetings&lt;/li&gt;
+&lt;li&gt;Separating work time from home time&lt;/li&gt;
+&lt;li&gt;The importance of a routine&lt;/li&gt;
+&lt;li&gt;Interruptions&lt;/li&gt;
+&lt;li&gt;Ensuring you put in the hours&lt;/li&gt;
+&lt;li&gt;Do you account for water cooler time?&lt;/li&gt;
+&lt;li&gt;Remote friendly vs. remote first organizations&lt;/li&gt;
+&lt;li&gt;Training your family&lt;/li&gt;
+&lt;li&gt;Are you lonely?&lt;/li&gt;
+&lt;li&gt;Getting out of the house&lt;/li&gt;
+&lt;li&gt;Competing globally&lt;/li&gt;
+&lt;li&gt;Communication&lt;/li&gt;
+&lt;li&gt;Do you have to work from &lt;em&gt;home&lt;/em&gt;?&lt;/li&gt;
+&lt;li&gt;Vacation&lt;/li&gt;
+&lt;li&gt;Co-working spaces&lt;/li&gt;
+&lt;li&gt;Staying focused&lt;/li&gt;
+&lt;li&gt;Do you even eat (healthy), bro?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-working-from-home.mp3" length="40115726" type="audio/mpeg" />
+				
+				<itunes:duration>42:36</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Career Planning</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 19 Sep 2016 21:11:22 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Career-Planning</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Canadian Space Agency is hiring!&lt;/li&gt;
+&lt;li&gt;Was software your first career choice?&lt;/li&gt;
+&lt;li&gt;Is a degree required?&lt;/li&gt;
+&lt;li&gt;Visa requirements for applying online&lt;/li&gt;
+&lt;li&gt;Will you spend your entire career in software?&lt;/li&gt;
+&lt;li&gt;What does retirement look like to you?&lt;/li&gt;
+&lt;li&gt;Parenthood/consulting&lt;/li&gt;
+&lt;li&gt;What radio station is Justin listening to that always provides such apropos background music?&lt;/li&gt;
+&lt;li&gt;What role does your employer play in career planning?&lt;/li&gt;
+&lt;li&gt;Shifting expectations with the next generation&lt;/li&gt;
+&lt;li&gt;Considerations for managing your career&lt;/li&gt;
+&lt;li&gt;Knowing when it&#39;s time for a shift&lt;/li&gt;
+&lt;li&gt;Recognizing opportunities&lt;/li&gt;
+&lt;li&gt;The importance of company culture&lt;/li&gt;
+&lt;li&gt;Mentoring and teaching&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The Canadian Space Agency is hiring!&lt;/li&gt;
+&lt;li&gt;Was software your first career choice?&lt;/li&gt;
+&lt;li&gt;Is a degree required?&lt;/li&gt;
+&lt;li&gt;Visa requirements for applying online&lt;/li&gt;
+&lt;li&gt;Will you spend your entire career in software?&lt;/li&gt;
+&lt;li&gt;What does retirement look like to you?&lt;/li&gt;
+&lt;li&gt;Parenthood/consulting&lt;/li&gt;
+&lt;li&gt;What radio station is Justin listening to that always provides such apropos background music?&lt;/li&gt;
+&lt;li&gt;What role does your employer play in career planning?&lt;/li&gt;
+&lt;li&gt;Shifting expectations with the next generation&lt;/li&gt;
+&lt;li&gt;Considerations for managing your career&lt;/li&gt;
+&lt;li&gt;Knowing when it&#39;s time for a shift&lt;/li&gt;
+&lt;li&gt;Recognizing opportunities&lt;/li&gt;
+&lt;li&gt;The importance of company culture&lt;/li&gt;
+&lt;li&gt;Mentoring and teaching&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-career-planning.mp3" length="39801087" type="audio/mpeg" />
+				
+				<itunes:duration>41:28</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Stress</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Fri, 09 Sep 2016 21:11:22 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Stress</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is stress leave a real thing?&lt;/li&gt;
+&lt;li&gt;Should stress leave be paid?&lt;/li&gt;
+&lt;li&gt;Work-related vs. home-related stress&lt;/li&gt;
+&lt;li&gt;&amp;quot;Mental health&amp;quot; days&lt;/li&gt;
+&lt;li&gt;Preventing stress at worked&lt;/li&gt;
+&lt;li&gt;De-stigmatizing stress at work&lt;/li&gt;
+&lt;li&gt;What is management&#39;s role in helping staff deal with stress?&lt;/li&gt;
+&lt;li&gt;How can an individual make things better?&lt;/li&gt;
+&lt;li&gt;Alternatives to stress leave&lt;/li&gt;
+&lt;li&gt;What if it&#39;s not viable to leave my job?&lt;/li&gt;
+&lt;li&gt;Symptoms of stress&lt;/li&gt;
+&lt;li&gt;Ways to handle stress&lt;/li&gt;
+&lt;li&gt;Importance of sharing your stress&lt;/li&gt;
+&lt;li&gt;Other sources of stress outside workload&lt;/li&gt;
+&lt;li&gt;Recognizing stress in others&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is stress leave a real thing?&lt;/li&gt;
+&lt;li&gt;Should stress leave be paid?&lt;/li&gt;
+&lt;li&gt;Work-related vs. home-related stress&lt;/li&gt;
+&lt;li&gt;&amp;quot;Mental health&amp;quot; days&lt;/li&gt;
+&lt;li&gt;Preventing stress at worked&lt;/li&gt;
+&lt;li&gt;De-stigmatizing stress at work&lt;/li&gt;
+&lt;li&gt;What is management&#39;s role in helping staff deal with stress?&lt;/li&gt;
+&lt;li&gt;How can an individual make things better?&lt;/li&gt;
+&lt;li&gt;Alternatives to stress leave&lt;/li&gt;
+&lt;li&gt;What if it&#39;s not viable to leave my job?&lt;/li&gt;
+&lt;li&gt;Symptoms of stress&lt;/li&gt;
+&lt;li&gt;Ways to handle stress&lt;/li&gt;
+&lt;li&gt;Importance of sharing your stress&lt;/li&gt;
+&lt;li&gt;Other sources of stress outside workload&lt;/li&gt;
+&lt;li&gt;Recognizing stress in others&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-stress.mp3" length="39174558" type="audio/mpeg" />
+				
+				<itunes:duration>40:48</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Exploratory Data Analysis with Matthew Renze</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 27 Jul 2016 14:58:44 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Exploratory-Data-Analysis-with-Matthew-Renze</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is exploratory data analysis?&lt;/li&gt;
+&lt;li&gt;Compared to machine learning and data mining&lt;/li&gt;
+&lt;li&gt;Numerical analysis and data visualization&lt;/li&gt;
+&lt;li&gt;Choosing a visualization&lt;/li&gt;
+&lt;li&gt;The psychology of choosing a visualization&lt;/li&gt;
+&lt;li&gt;Lying with statistics&lt;/li&gt;
+&lt;li&gt;Pitching exploratory analysis to developers&lt;/li&gt;
+&lt;li&gt;Using R for analysis&lt;/li&gt;
+&lt;li&gt;R in the Microsoft ecosystem&lt;/li&gt;
+&lt;li&gt;Evolution of R in the community&lt;/li&gt;
+&lt;li&gt;Impact of data analysis&lt;/li&gt;
+&lt;li&gt;Making sense of the flood of data&lt;/li&gt;
+&lt;li&gt;Academic data analysis vs commercial data analysis&lt;/li&gt;
+&lt;li&gt;Importance of having a statistical background&lt;/li&gt;
+&lt;li&gt;Machine learning and artificial intelligence&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is exploratory data analysis?&lt;/li&gt;
+&lt;li&gt;Compared to machine learning and data mining&lt;/li&gt;
+&lt;li&gt;Numerical analysis and data visualization&lt;/li&gt;
+&lt;li&gt;Choosing a visualization&lt;/li&gt;
+&lt;li&gt;The psychology of choosing a visualization&lt;/li&gt;
+&lt;li&gt;Lying with statistics&lt;/li&gt;
+&lt;li&gt;Pitching exploratory analysis to developers&lt;/li&gt;
+&lt;li&gt;Using R for analysis&lt;/li&gt;
+&lt;li&gt;R in the Microsoft ecosystem&lt;/li&gt;
+&lt;li&gt;Evolution of R in the community&lt;/li&gt;
+&lt;li&gt;Impact of data analysis&lt;/li&gt;
+&lt;li&gt;Making sense of the flood of data&lt;/li&gt;
+&lt;li&gt;Academic data analysis vs commercial data analysis&lt;/li&gt;
+&lt;li&gt;Importance of having a statistical background&lt;/li&gt;
+&lt;li&gt;Machine learning and artificial intelligence&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-data-analysis-matthew-renze.mp3" length="21069439" type="audio/mpeg" />
+				
+				<itunes:duration>21:57</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Functional Programming and F# with Rachel Reese</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 09 Jul 2016 22:01:53 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/FSharp-with-Rachel-Reese</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;Special guest: Rachel Reese&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why functional programming? Why now?&lt;/li&gt;
+&lt;li&gt;Myths of functional programming&lt;/li&gt;
+&lt;li&gt;This ain&#39;t your mother&#39;s functional programming&lt;/li&gt;
+&lt;li&gt;Can I find a job with F#?&lt;/li&gt;
+&lt;li&gt;Can companies find F# developers?&lt;/li&gt;
+&lt;li&gt;WTF is a monad?&lt;/li&gt;
+&lt;li&gt;Useful F# libraries&lt;/li&gt;
+&lt;li&gt;Scripting with F#&lt;/li&gt;
+&lt;li&gt;Type providers&lt;/li&gt;
+&lt;li&gt;Options&lt;/li&gt;
+&lt;li&gt;Piping&lt;/li&gt;
+&lt;li&gt;Discriminated unions&lt;/li&gt;
+&lt;li&gt;Records vs. tuples vs. structs&lt;/li&gt;
+&lt;li&gt;Getting started with F#&lt;/li&gt;
+&lt;li&gt;F# in the community&lt;/li&gt;
+&lt;li&gt;F# in Xamarin, Mono, and .NET Core&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;Special guest: Rachel Reese&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why functional programming? Why now?&lt;/li&gt;
+&lt;li&gt;Myths of functional programming&lt;/li&gt;
+&lt;li&gt;This ain&#39;t your mother&#39;s functional programming&lt;/li&gt;
+&lt;li&gt;Can I find a job with F#?&lt;/li&gt;
+&lt;li&gt;Can companies find F# developers?&lt;/li&gt;
+&lt;li&gt;WTF is a monad?&lt;/li&gt;
+&lt;li&gt;Useful F# libraries&lt;/li&gt;
+&lt;li&gt;Scripting with F#&lt;/li&gt;
+&lt;li&gt;Type providers&lt;/li&gt;
+&lt;li&gt;Options&lt;/li&gt;
+&lt;li&gt;Piping&lt;/li&gt;
+&lt;li&gt;Discriminated unions&lt;/li&gt;
+&lt;li&gt;Records vs. tuples vs. structs&lt;/li&gt;
+&lt;li&gt;Getting started with F#&lt;/li&gt;
+&lt;li&gt;F# in the community&lt;/li&gt;
+&lt;li&gt;F# in Xamarin, Mono, and .NET Core&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-functional-programming-rachel-reese.mp3" length="36722849" type="audio/mpeg" />
+				
+				<itunes:duration>38:15</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Mobile Apps and Xamarin</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 02 Jul 2016 18:13:23 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Mobile-apps</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xamarin: platform for building cross-platform applications that happens to be in .NET&lt;/li&gt;
+&lt;li&gt;Scenarios for Xamarin forms&lt;/li&gt;
+&lt;li&gt;What to know when building for OSX or IOS&lt;/li&gt;
+&lt;li&gt;Xamarin Studio vs Visual Studio&lt;/li&gt;
+&lt;li&gt;Alternatives to Xamarin for cross-platform development&lt;/li&gt;
+&lt;li&gt;You can&#39;t avoid learning about the platform API you&#39;re developing for&lt;/li&gt;
+&lt;li&gt;Design considerations for mobile apps&lt;/li&gt;
+&lt;li&gt;Designing for tablets vs. phones vs. watches vs. cars&lt;/li&gt;
+&lt;li&gt;Architectural concerns for mobile apps&lt;/li&gt;
+&lt;li&gt;Designing for slow/poor connectivity&lt;/li&gt;
+&lt;li&gt;Native vs hybrid apps&lt;/li&gt;
+&lt;li&gt;Distinguishing between hybrid apps and responsive web apps&lt;/li&gt;
+&lt;li&gt;Testing on mobile&lt;/li&gt;
+&lt;li&gt;Versioning mobile apps&lt;/li&gt;
+&lt;li&gt;Analytics in mobile apps&lt;/li&gt;
+&lt;li&gt;The dangers of drinking with Joseph Hill&lt;/li&gt;
+&lt;li&gt;Existing resources&lt;/li&gt;
+&lt;li&gt;Importance of testing on actual devices&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Xamarin: platform for building cross-platform applications that happens to be in .NET&lt;/li&gt;
+&lt;li&gt;Scenarios for Xamarin forms&lt;/li&gt;
+&lt;li&gt;What to know when building for OSX or IOS&lt;/li&gt;
+&lt;li&gt;Xamarin Studio vs Visual Studio&lt;/li&gt;
+&lt;li&gt;Alternatives to Xamarin for cross-platform development&lt;/li&gt;
+&lt;li&gt;You can&#39;t avoid learning about the platform API you&#39;re developing for&lt;/li&gt;
+&lt;li&gt;Design considerations for mobile apps&lt;/li&gt;
+&lt;li&gt;Designing for tablets vs. phones vs. watches vs. cars&lt;/li&gt;
+&lt;li&gt;Architectural concerns for mobile apps&lt;/li&gt;
+&lt;li&gt;Designing for slow/poor connectivity&lt;/li&gt;
+&lt;li&gt;Native vs hybrid apps&lt;/li&gt;
+&lt;li&gt;Distinguishing between hybrid apps and responsive web apps&lt;/li&gt;
+&lt;li&gt;Testing on mobile&lt;/li&gt;
+&lt;li&gt;Versioning mobile apps&lt;/li&gt;
+&lt;li&gt;Analytics in mobile apps&lt;/li&gt;
+&lt;li&gt;The dangers of drinking with Joseph Hill&lt;/li&gt;
+&lt;li&gt;Existing resources&lt;/li&gt;
+&lt;li&gt;Importance of testing on actual devices&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-mobile-apps-xamarin.mp3" length="40120834" type="audio/mpeg" />
+				
+				<itunes:duration>41:48</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Building APIs</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 13 Jun 2016 13:58:48 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Building-APIs</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is an API?&lt;/li&gt;
+&lt;li&gt;Clarifying &amp;quot;public&amp;quot; with respect to APIs&lt;/li&gt;
+&lt;li&gt;Why build an API?&lt;/li&gt;
+&lt;li&gt;APIs as a means of breaking down components and compartmentalizing data&lt;/li&gt;
+&lt;li&gt;API design considerations&lt;/li&gt;
+&lt;li&gt;The effect of microservices&lt;/li&gt;
+&lt;li&gt;Versioning an API
+&lt;ul&gt;
+&lt;li&gt;Maintaining multiple versions&lt;/li&gt;
+&lt;li&gt;Using a message upgrade service&lt;/li&gt;
+&lt;li&gt;Only adding to the API&lt;/li&gt;
+&lt;li&gt;The cost of maintaining backward compatibility&lt;/li&gt;
+&lt;li&gt;Using speed as an incentive to get customers to upgrade to a later version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SignalR/Websockets&lt;/li&gt;
+&lt;li&gt;Balancing data between an API and a webhook&lt;/li&gt;
+&lt;li&gt;Services that integrate with APIs (e.g. IFTTT, Zapier)&lt;/li&gt;
+&lt;li&gt;Native integration with 3rd party services&lt;/li&gt;
+&lt;li&gt;Authentication
+&lt;ul&gt;
+&lt;li&gt;Token-based&lt;/li&gt;
+&lt;li&gt;OAuth2&lt;/li&gt;
+&lt;li&gt;Application-specific tokens&lt;/li&gt;
+&lt;li&gt;Expiring tokens&lt;/li&gt;
+&lt;li&gt;Applying permissions to tokens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is an API?&lt;/li&gt;
+&lt;li&gt;Clarifying &amp;quot;public&amp;quot; with respect to APIs&lt;/li&gt;
+&lt;li&gt;Why build an API?&lt;/li&gt;
+&lt;li&gt;APIs as a means of breaking down components and compartmentalizing data&lt;/li&gt;
+&lt;li&gt;API design considerations&lt;/li&gt;
+&lt;li&gt;The effect of microservices&lt;/li&gt;
+&lt;li&gt;Versioning an API
+&lt;ul&gt;
+&lt;li&gt;Maintaining multiple versions&lt;/li&gt;
+&lt;li&gt;Using a message upgrade service&lt;/li&gt;
+&lt;li&gt;Only adding to the API&lt;/li&gt;
+&lt;li&gt;The cost of maintaining backward compatibility&lt;/li&gt;
+&lt;li&gt;Using speed as an incentive to get customers to upgrade to a later version&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SignalR/Websockets&lt;/li&gt;
+&lt;li&gt;Balancing data between an API and a webhook&lt;/li&gt;
+&lt;li&gt;Services that integrate with APIs (e.g. IFTTT, Zapier)&lt;/li&gt;
+&lt;li&gt;Native integration with 3rd party services&lt;/li&gt;
+&lt;li&gt;Authentication
+&lt;ul&gt;
+&lt;li&gt;Token-based&lt;/li&gt;
+&lt;li&gt;OAuth2&lt;/li&gt;
+&lt;li&gt;Application-specific tokens&lt;/li&gt;
+&lt;li&gt;Expiring tokens&lt;/li&gt;
+&lt;li&gt;Applying permissions to tokens&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-building-apis.mp3" length="37892683" type="audio/mpeg" />
+				
+				<itunes:duration>39:28</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Prairie Dev Con Recap</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 07 May 2016 17:22:31 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Prairie-Dev-Con-Recap</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;History of Prairie Dev Con&lt;/li&gt;
+&lt;li&gt;Tee shirts, empanadas, and luchadors&lt;/li&gt;
+&lt;li&gt;Speaker tip: Be specific in session titles&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Treat your speakers well&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Create a positive vibe&lt;/li&gt;
+&lt;li&gt;Presentation review: Docker&lt;/li&gt;
+&lt;li&gt;Presentation review: Staying relevant in the industry&lt;/li&gt;
+&lt;li&gt;Feedback stats&lt;/li&gt;
+&lt;li&gt;The broadening technology landscape&lt;/li&gt;
+&lt;li&gt;The challenge of determining what the market wants to hear&lt;/li&gt;
+&lt;li&gt;Benefits of covering costs for speakers&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Focus on all of: Attendees, Sponsors, Organizer, Speakers&lt;/li&gt;
+&lt;li&gt;Speaking topic: When not to push to production&lt;/li&gt;
+&lt;li&gt;Topic trends: Mobile is dead (at least in Winnipeg)&lt;/li&gt;
+&lt;li&gt;Presentation review: Dealing with difficult people&lt;/li&gt;
+&lt;li&gt;Law of two feet: It&#39;s okay to leave if you don&#39;t want to stay in the session&lt;/li&gt;
+&lt;li&gt;Presentation review: Sweet ES6&lt;/li&gt;
+&lt;li&gt;Record the &amp;amp;*%$# sessions, D&#39;Arcy!&lt;/li&gt;
+&lt;li&gt;The finances of attending and running a conference&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;History of Prairie Dev Con&lt;/li&gt;
+&lt;li&gt;Tee shirts, empanadas, and luchadors&lt;/li&gt;
+&lt;li&gt;Speaker tip: Be specific in session titles&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Treat your speakers well&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Create a positive vibe&lt;/li&gt;
+&lt;li&gt;Presentation review: Docker&lt;/li&gt;
+&lt;li&gt;Presentation review: Staying relevant in the industry&lt;/li&gt;
+&lt;li&gt;Feedback stats&lt;/li&gt;
+&lt;li&gt;The broadening technology landscape&lt;/li&gt;
+&lt;li&gt;The challenge of determining what the market wants to hear&lt;/li&gt;
+&lt;li&gt;Benefits of covering costs for speakers&lt;/li&gt;
+&lt;li&gt;Conference organizer tip: Focus on all of: Attendees, Sponsors, Organizer, Speakers&lt;/li&gt;
+&lt;li&gt;Speaking topic: When not to push to production&lt;/li&gt;
+&lt;li&gt;Topic trends: Mobile is dead (at least in Winnipeg)&lt;/li&gt;
+&lt;li&gt;Presentation review: Dealing with difficult people&lt;/li&gt;
+&lt;li&gt;Law of two feet: It&#39;s okay to leave if you don&#39;t want to stay in the session&lt;/li&gt;
+&lt;li&gt;Presentation review: Sweet ES6&lt;/li&gt;
+&lt;li&gt;Record the &amp;amp;*%$# sessions, D&#39;Arcy!&lt;/li&gt;
+&lt;li&gt;The finances of attending and running a conference&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-prairie-dev-con-recap.mp3" length="42817504" type="audio/mpeg" />
+				
+				<itunes:duration>44:36</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Thoughts on Microsoft Build 2016</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sun, 10 Apr 2016 00:18:38 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/MS-Build</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bots: The next level or glorified clippy?&lt;/li&gt;
+&lt;li&gt;Xamarin: Free! Mobile apps for everyone!&lt;/li&gt;
+&lt;li&gt;Hololens shipped&lt;/li&gt;
+&lt;li&gt;XBox One is now a developer kit&lt;/li&gt;
+&lt;li&gt;Unified store&lt;/li&gt;
+&lt;li&gt;Cognitive API/Project oxford&lt;/li&gt;
+&lt;li&gt;Azure Functions&lt;/li&gt;
+&lt;li&gt;Linux on Windows&lt;/li&gt;
+&lt;li&gt;Project Centennial&lt;/li&gt;
+&lt;li&gt;Inking capabilities - Anniversary update&lt;/li&gt;
+&lt;li&gt;Do you wish you had gone?&lt;/li&gt;
+&lt;li&gt;Hands on labs&lt;/li&gt;
+&lt;li&gt;On giving hardware away at conferences&lt;/li&gt;
+&lt;li&gt;Wherefor Windows Phone?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Bots: The next level or glorified clippy?&lt;/li&gt;
+&lt;li&gt;Xamarin: Free! Mobile apps for everyone!&lt;/li&gt;
+&lt;li&gt;Hololens shipped&lt;/li&gt;
+&lt;li&gt;XBox One is now a developer kit&lt;/li&gt;
+&lt;li&gt;Unified store&lt;/li&gt;
+&lt;li&gt;Cognitive API/Project oxford&lt;/li&gt;
+&lt;li&gt;Azure Functions&lt;/li&gt;
+&lt;li&gt;Linux on Windows&lt;/li&gt;
+&lt;li&gt;Project Centennial&lt;/li&gt;
+&lt;li&gt;Inking capabilities - Anniversary update&lt;/li&gt;
+&lt;li&gt;Do you wish you had gone?&lt;/li&gt;
+&lt;li&gt;Hands on labs&lt;/li&gt;
+&lt;li&gt;On giving hardware away at conferences&lt;/li&gt;
+&lt;li&gt;Wherefor Windows Phone?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-ms-build.mp3" length="43063681" type="audio/mpeg" />
+				
+				<itunes:duration>44:51</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Diabetes technology</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sun, 27 Mar 2016 21:01:07 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Diabetes-technology</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Type 1 vs. Type 2&lt;/li&gt;
+&lt;li&gt;Determining your blood glucose level&lt;/li&gt;
+&lt;li&gt;Insulin pump vs. insulin injections&lt;/li&gt;
+&lt;li&gt;The joys of sleeping in and being hungry&lt;/li&gt;
+&lt;li&gt;Early insulin pumps&lt;/li&gt;
+&lt;li&gt;Dealing with statistical variability&lt;/li&gt;
+&lt;li&gt;Continuous glucose meters&lt;/li&gt;
+&lt;li&gt;Trends vs. point in time&lt;/li&gt;
+&lt;li&gt;Communication (or lack thereof) between meters and pumps&lt;/li&gt;
+&lt;li&gt;Factoring in other measures (e.g. heart rate)&lt;/li&gt;
+&lt;li&gt;Artificial pancreas: more mashup than moonshot&lt;/li&gt;
+&lt;li&gt;Remote monitoring&lt;/li&gt;
+&lt;li&gt;The importance of intuition&lt;/li&gt;
+&lt;li&gt;Using machine learning with the data&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Type 1 vs. Type 2&lt;/li&gt;
+&lt;li&gt;Determining your blood glucose level&lt;/li&gt;
+&lt;li&gt;Insulin pump vs. insulin injections&lt;/li&gt;
+&lt;li&gt;The joys of sleeping in and being hungry&lt;/li&gt;
+&lt;li&gt;Early insulin pumps&lt;/li&gt;
+&lt;li&gt;Dealing with statistical variability&lt;/li&gt;
+&lt;li&gt;Continuous glucose meters&lt;/li&gt;
+&lt;li&gt;Trends vs. point in time&lt;/li&gt;
+&lt;li&gt;Communication (or lack thereof) between meters and pumps&lt;/li&gt;
+&lt;li&gt;Factoring in other measures (e.g. heart rate)&lt;/li&gt;
+&lt;li&gt;Artificial pancreas: more mashup than moonshot&lt;/li&gt;
+&lt;li&gt;Remote monitoring&lt;/li&gt;
+&lt;li&gt;The importance of intuition&lt;/li&gt;
+&lt;li&gt;Using machine learning with the data&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-diabetes-technology.mp3" length="37658214" type="audio/mpeg" />
+				
+				<itunes:duration>39:14</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Building developer tools with Igal Tabachnik</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 29 Feb 2016 20:57:40 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Building-developer-tools-with-Igal-Tabachnik</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens under the covers in Visual Studio?&lt;/li&gt;
+&lt;li&gt;Finding further use of compilers, debuggers, and source code analyzers&lt;/li&gt;
+&lt;li&gt;TypeMock - Low level CLR to mock statics and sealed classes&lt;/li&gt;
+&lt;li&gt;Reverse engineering without documentation&lt;/li&gt;
+&lt;li&gt;OzCode - Tying into the debugger&lt;/li&gt;
+&lt;li&gt;Developer tools vs. LOB apps&lt;/li&gt;
+&lt;li&gt;How’d they do that?&lt;/li&gt;
+&lt;li&gt;Going past F10 and F11&lt;/li&gt;
+&lt;li&gt;Moving the debug point backward or forward&lt;/li&gt;
+&lt;li&gt;Using Roslyn to hook into the build process&lt;/li&gt;
+&lt;li&gt;Roslyn: opening the compiler black box. It’s not scary anymore&lt;/li&gt;
+&lt;li&gt;Using Roslyn for domain-specific plugins&lt;/li&gt;
+&lt;li&gt;ReSharper and DevExpress: Comparing a tool that isn’t switching to Roslyn to one that is&lt;/li&gt;
+&lt;li&gt;Building tools that stay out of your way&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What happens under the covers in Visual Studio?&lt;/li&gt;
+&lt;li&gt;Finding further use of compilers, debuggers, and source code analyzers&lt;/li&gt;
+&lt;li&gt;TypeMock - Low level CLR to mock statics and sealed classes&lt;/li&gt;
+&lt;li&gt;Reverse engineering without documentation&lt;/li&gt;
+&lt;li&gt;OzCode - Tying into the debugger&lt;/li&gt;
+&lt;li&gt;Developer tools vs. LOB apps&lt;/li&gt;
+&lt;li&gt;How’d they do that?&lt;/li&gt;
+&lt;li&gt;Going past F10 and F11&lt;/li&gt;
+&lt;li&gt;Moving the debug point backward or forward&lt;/li&gt;
+&lt;li&gt;Using Roslyn to hook into the build process&lt;/li&gt;
+&lt;li&gt;Roslyn: opening the compiler black box. It’s not scary anymore&lt;/li&gt;
+&lt;li&gt;Using Roslyn for domain-specific plugins&lt;/li&gt;
+&lt;li&gt;ReSharper and DevExpress: Comparing a tool that isn’t switching to Roslyn to one that is&lt;/li&gt;
+&lt;li&gt;Building tools that stay out of your way&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-developer-tools-with-igal-tabachnik.mp3" length="26712724" type="audio/mpeg" />
+				
+				<itunes:duration>27:50</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Developer Productivity</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 23 Feb 2016 17:31:27 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Developer-Productivity</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you measure developer productivity?&lt;/li&gt;
+&lt;li&gt;Value delivered is contextual&lt;/li&gt;
+&lt;li&gt;Measuring over time&lt;/li&gt;
+&lt;li&gt;Measuring developers vs. teams&lt;/li&gt;
+&lt;li&gt;Choosing appropriate metrics that measure the right things&lt;/li&gt;
+&lt;li&gt;Distractions/external factors&lt;/li&gt;
+&lt;li&gt;Collaboration and/or competition&lt;/li&gt;
+&lt;li&gt;What&#39;s driving the desire for measuring developer productivity?&lt;/li&gt;
+&lt;li&gt;Measuring beyond code: professional development, mentoring, marketing&lt;/li&gt;
+&lt;li&gt;Individual vs. team evaluations&lt;/li&gt;
+&lt;li&gt;Constant peer feedback&lt;/li&gt;
+&lt;li&gt;How do you manage promotions/pay raises without measuring productivity?&lt;/li&gt;
+&lt;li&gt;Performance review != salary review&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;conversation devolves into a salary discussion for longer than it should have&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;How do you allocate your budget within the context of measuring a developer&#39;s productivity?&lt;/li&gt;
+&lt;li&gt;Divorcing salary from productivity&lt;/li&gt;
+&lt;li&gt;Measuring productivity in terms of cookies&lt;/li&gt;
+&lt;li&gt;Employees vs. consultants&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Can you measure developer productivity?&lt;/li&gt;
+&lt;li&gt;Value delivered is contextual&lt;/li&gt;
+&lt;li&gt;Measuring over time&lt;/li&gt;
+&lt;li&gt;Measuring developers vs. teams&lt;/li&gt;
+&lt;li&gt;Choosing appropriate metrics that measure the right things&lt;/li&gt;
+&lt;li&gt;Distractions/external factors&lt;/li&gt;
+&lt;li&gt;Collaboration and/or competition&lt;/li&gt;
+&lt;li&gt;What&#39;s driving the desire for measuring developer productivity?&lt;/li&gt;
+&lt;li&gt;Measuring beyond code: professional development, mentoring, marketing&lt;/li&gt;
+&lt;li&gt;Individual vs. team evaluations&lt;/li&gt;
+&lt;li&gt;Constant peer feedback&lt;/li&gt;
+&lt;li&gt;How do you manage promotions/pay raises without measuring productivity?&lt;/li&gt;
+&lt;li&gt;Performance review != salary review&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;conversation devolves into a salary discussion for longer than it should have&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;How do you allocate your budget within the context of measuring a developer&#39;s productivity?&lt;/li&gt;
+&lt;li&gt;Divorcing salary from productivity&lt;/li&gt;
+&lt;li&gt;Measuring productivity in terms of cookies&lt;/li&gt;
+&lt;li&gt;Employees vs. consultants&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/westerndevs-developer-productivity.mp3" length="44047559" type="audio/mpeg" />
+				
+				<itunes:duration>45:53</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Getting Started in Open Source with Adam Ralph</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 17 Feb 2016 23:57:13 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Getting-started-in-open-source-with-Adam-Ralph</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting Started: Launch your own or contribute&lt;/li&gt;
+&lt;li&gt;It’s not as scary as you think&lt;/li&gt;
+&lt;li&gt;Start with something you use&lt;/li&gt;
+&lt;li&gt;Chime in on issues&lt;/li&gt;
+&lt;li&gt;Taking over someone else’s project&lt;/li&gt;
+&lt;li&gt;Managing a project doesn’t always involve a lot of time&lt;/li&gt;
+&lt;li&gt;The maintainer may not have all the knowledge&lt;/li&gt;
+&lt;li&gt;OSS already blog post&lt;/li&gt;
+&lt;li&gt;Don’t wait for your project to be “ready&amp;quot;&lt;/li&gt;
+&lt;li&gt;Helping new contributors&lt;/li&gt;
+&lt;li&gt;The contributing.md file&lt;/li&gt;
+&lt;li&gt;Communicate before submitting a PR&lt;/li&gt;
+&lt;li&gt;Recognize that OSS is usually done on a “best effort” basis&lt;/li&gt;
+&lt;li&gt;Find a balance between too much and not enough time on OSS&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Getting Started: Launch your own or contribute&lt;/li&gt;
+&lt;li&gt;It’s not as scary as you think&lt;/li&gt;
+&lt;li&gt;Start with something you use&lt;/li&gt;
+&lt;li&gt;Chime in on issues&lt;/li&gt;
+&lt;li&gt;Taking over someone else’s project&lt;/li&gt;
+&lt;li&gt;Managing a project doesn’t always involve a lot of time&lt;/li&gt;
+&lt;li&gt;The maintainer may not have all the knowledge&lt;/li&gt;
+&lt;li&gt;OSS already blog post&lt;/li&gt;
+&lt;li&gt;Don’t wait for your project to be “ready&amp;quot;&lt;/li&gt;
+&lt;li&gt;Helping new contributors&lt;/li&gt;
+&lt;li&gt;The contributing.md file&lt;/li&gt;
+&lt;li&gt;Communicate before submitting a PR&lt;/li&gt;
+&lt;li&gt;Recognize that OSS is usually done on a “best effort” basis&lt;/li&gt;
+&lt;li&gt;Find a balance between too much and not enough time on OSS&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/2016-02-15-westerndevs-open-source-with-adam-ralph.mp3" length="19512125" type="audio/mpeg" />
+				
+				<itunes:duration>20:19</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Ergonomics</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 13 Feb 2016 17:35:15 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Ergonomics</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Carpal tunnel symptoms&lt;/li&gt;
+&lt;li&gt;Hand position for keyboards&lt;/li&gt;
+&lt;li&gt;Ergonomic keyboards&lt;/li&gt;
+&lt;li&gt;Desk armrests&lt;/li&gt;
+&lt;li&gt;Desks - standing and treadmills&lt;/li&gt;
+&lt;li&gt;MacGyvering a treadmill desk&lt;/li&gt;
+&lt;li&gt;Tracking your numbers&lt;/li&gt;
+&lt;li&gt;Avoiding sitting down&lt;/li&gt;
+&lt;li&gt;Steel case chairs&lt;/li&gt;
+&lt;li&gt;Getting chairs on a budget&lt;/li&gt;
+&lt;li&gt;Ball chairs&lt;/li&gt;
+&lt;li&gt;Reclined position&lt;/li&gt;
+&lt;li&gt;Monitors: height, position, quantity&lt;/li&gt;
+&lt;li&gt;Oculus/Hololens&lt;/li&gt;
+&lt;li&gt;Is the Minority Report workstation practical?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Carpal tunnel symptoms&lt;/li&gt;
+&lt;li&gt;Hand position for keyboards&lt;/li&gt;
+&lt;li&gt;Ergonomic keyboards&lt;/li&gt;
+&lt;li&gt;Desk armrests&lt;/li&gt;
+&lt;li&gt;Desks - standing and treadmills&lt;/li&gt;
+&lt;li&gt;MacGyvering a treadmill desk&lt;/li&gt;
+&lt;li&gt;Tracking your numbers&lt;/li&gt;
+&lt;li&gt;Avoiding sitting down&lt;/li&gt;
+&lt;li&gt;Steel case chairs&lt;/li&gt;
+&lt;li&gt;Getting chairs on a budget&lt;/li&gt;
+&lt;li&gt;Ball chairs&lt;/li&gt;
+&lt;li&gt;Reclined position&lt;/li&gt;
+&lt;li&gt;Monitors: height, position, quantity&lt;/li&gt;
+&lt;li&gt;Oculus/Hololens&lt;/li&gt;
+&lt;li&gt;Is the Minority Report workstation practical?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/2016-02-13-WesternDevs-Ergonomics.mp3" length="39902228" type="audio/mpeg" />
+				
+				<itunes:duration>41:34</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Azure with Yves Goeleven</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 08 Feb 2016 22:19:10 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Azure-with-Yves-Goeleven</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Azure for remotely monitoring cinema equipment in real-time&lt;/li&gt;
+&lt;li&gt;MessageHandler for IoT devices&lt;/li&gt;
+&lt;li&gt;The evolution of Azure services&lt;/li&gt;
+&lt;li&gt;The challenge of developing against a moving platform&lt;/li&gt;
+&lt;li&gt;Stability of total service offering vs. stability within individual services&lt;/li&gt;
+&lt;li&gt;Where Azure ends and third-party services begin&lt;/li&gt;
+&lt;li&gt;Azure Marketplace&lt;/li&gt;
+&lt;li&gt;Evolving away from virtual machine-based services to SaaS&lt;/li&gt;
+&lt;li&gt;Building for scale with IoT messages&lt;/li&gt;
+&lt;li&gt;The evolution of Azure from a developer platform to an IT platform&lt;/li&gt;
+&lt;li&gt;Why Azure?&lt;/li&gt;
+&lt;li&gt;The importance of support&lt;/li&gt;
+&lt;li&gt;Being nimble with Azure&lt;/li&gt;
+&lt;li&gt;Automation with ARM&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Azure for remotely monitoring cinema equipment in real-time&lt;/li&gt;
+&lt;li&gt;MessageHandler for IoT devices&lt;/li&gt;
+&lt;li&gt;The evolution of Azure services&lt;/li&gt;
+&lt;li&gt;The challenge of developing against a moving platform&lt;/li&gt;
+&lt;li&gt;Stability of total service offering vs. stability within individual services&lt;/li&gt;
+&lt;li&gt;Where Azure ends and third-party services begin&lt;/li&gt;
+&lt;li&gt;Azure Marketplace&lt;/li&gt;
+&lt;li&gt;Evolving away from virtual machine-based services to SaaS&lt;/li&gt;
+&lt;li&gt;Building for scale with IoT messages&lt;/li&gt;
+&lt;li&gt;The evolution of Azure from a developer platform to an IT platform&lt;/li&gt;
+&lt;li&gt;Why Azure?&lt;/li&gt;
+&lt;li&gt;The importance of support&lt;/li&gt;
+&lt;li&gt;Being nimble with Azure&lt;/li&gt;
+&lt;li&gt;Automation with ARM&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/YvesGoelevenAzure.mp3" length="21061896" type="audio/mpeg" />
+				
+				<itunes:duration>21:56</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Is Web Development Terrible</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sun, 24 Jan 2016 15:40:13 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Podcast-Is-Web-Development-Terrible</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is web development sad?&lt;/li&gt;
+&lt;li&gt;Should we be critisizing software and developers?&lt;/li&gt;
+&lt;li&gt;What&#39;s great about web development&lt;/li&gt;
+&lt;li&gt;What&#39;s up with all the packages in node?&lt;/li&gt;
+&lt;li&gt;Is software too complex or is it just the nature of abstractions?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is web development sad?&lt;/li&gt;
+&lt;li&gt;Should we be critisizing software and developers?&lt;/li&gt;
+&lt;li&gt;What&#39;s great about web development&lt;/li&gt;
+&lt;li&gt;What&#39;s up with all the packages in node?&lt;/li&gt;
+&lt;li&gt;Is software too complex or is it just the nature of abstractions?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/western_devs_podcast_2016-01-15.mp3" length="39288276" type="audio/mpeg" />
+				
+				<itunes:duration>40:55</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>2016 Goals</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 13 Jan 2016 15:40:13 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/Podcast-2016-Goals</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2015 Recap&lt;/li&gt;
+&lt;li&gt;Getting back to code&lt;/li&gt;
+&lt;li&gt;Making personal projects personal again&lt;/li&gt;
+&lt;li&gt;Learning in public&lt;/li&gt;
+&lt;li&gt;Speaking/presentation goals&lt;/li&gt;
+&lt;li&gt;Going with the flow vs. strict adherence to plans&lt;/li&gt;
+&lt;li&gt;Blogging: Quality vs. Quantity&lt;/li&gt;
+&lt;li&gt;Tinkering with tech&lt;/li&gt;
+&lt;li&gt;Personal goals&lt;/li&gt;
+&lt;li&gt;Balancing your use of quinoa&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2015 Recap&lt;/li&gt;
+&lt;li&gt;Getting back to code&lt;/li&gt;
+&lt;li&gt;Making personal projects personal again&lt;/li&gt;
+&lt;li&gt;Learning in public&lt;/li&gt;
+&lt;li&gt;Speaking/presentation goals&lt;/li&gt;
+&lt;li&gt;Going with the flow vs. strict adherence to plans&lt;/li&gt;
+&lt;li&gt;Blogging: Quality vs. Quantity&lt;/li&gt;
+&lt;li&gt;Tinkering with tech&lt;/li&gt;
+&lt;li&gt;Personal goals&lt;/li&gt;
+&lt;li&gt;Balancing your use of quinoa&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/2016Goals.mp3" length="33003394" type="audio/mpeg" />
+				
+				<itunes:duration>34:23</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Barriers for Women in Technology</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 14 Dec 2015 23:12:40 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-barriers-for-women-in-technology</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Stats on women in tech&lt;/li&gt;
+&lt;li&gt;The problem with focusing solely on the pipeline&lt;/li&gt;
+&lt;li&gt;When teachers feed the stereotype&lt;/li&gt;
+&lt;li&gt;Gender bias vs. general obtuseness&lt;/li&gt;
+&lt;li&gt;When bias happens behind closed doors&lt;/li&gt;
+&lt;li&gt;Numbers and statistics vs. anecdotal evidence&lt;/li&gt;
+&lt;li&gt;Building trust and being observant&lt;/li&gt;
+&lt;li&gt;The power of stories in our youth&lt;/li&gt;
+&lt;li&gt;Overlap with ageism&lt;/li&gt;
+&lt;li&gt;The looming skills shortage&lt;/li&gt;
+&lt;li&gt;Benefit of a balanced workforce rather than a male-oriented work environment&lt;/li&gt;
+&lt;li&gt;Encouraging women to start and lead companies&lt;/li&gt;
+&lt;li&gt;Recognizing social differences&lt;/li&gt;
+&lt;li&gt;Stop asking for ninjas, gurus, and rock stars already!&lt;/li&gt;
+&lt;li&gt;&amp;quot;We have a flexible work environment&amp;quot;...do you really?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Stats on women in tech&lt;/li&gt;
+&lt;li&gt;The problem with focusing solely on the pipeline&lt;/li&gt;
+&lt;li&gt;When teachers feed the stereotype&lt;/li&gt;
+&lt;li&gt;Gender bias vs. general obtuseness&lt;/li&gt;
+&lt;li&gt;When bias happens behind closed doors&lt;/li&gt;
+&lt;li&gt;Numbers and statistics vs. anecdotal evidence&lt;/li&gt;
+&lt;li&gt;Building trust and being observant&lt;/li&gt;
+&lt;li&gt;The power of stories in our youth&lt;/li&gt;
+&lt;li&gt;Overlap with ageism&lt;/li&gt;
+&lt;li&gt;The looming skills shortage&lt;/li&gt;
+&lt;li&gt;Benefit of a balanced workforce rather than a male-oriented work environment&lt;/li&gt;
+&lt;li&gt;Encouraging women to start and lead companies&lt;/li&gt;
+&lt;li&gt;Recognizing social differences&lt;/li&gt;
+&lt;li&gt;Stop asking for ninjas, gurus, and rock stars already!&lt;/li&gt;
+&lt;li&gt;&amp;quot;We have a flexible work environment&amp;quot;...do you really?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/BarriersForWomenInTechnology.mp3" length="44773146" type="audio/mpeg" />
+				
+				<itunes:duration>46:38</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>The Future of Computing</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 07 Dec 2015 23:21:04 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-the-future-of-computing</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Desktops =&amp;gt; Internet =&amp;gt; Mobile =&amp;gt; ???&lt;/li&gt;
+&lt;li&gt;The players: Internet of Things, Wearables/Nearables, Arduino/Raspberry Pi, 3D printing, Virtual Reality/Augmented Reality&lt;/li&gt;
+&lt;li&gt;The power of low cost of entry&lt;/li&gt;
+&lt;li&gt;Revolution or evolution?&lt;/li&gt;
+&lt;li&gt;The data&#39;s the thing&lt;/li&gt;
+&lt;li&gt;&amp;quot;What do you mean I can&#39;t turn on my washing machine from my phone?&amp;quot;&lt;/li&gt;
+&lt;li&gt;The widening technology gap&lt;/li&gt;
+&lt;li&gt;Job opportunities&lt;/li&gt;
+&lt;li&gt;Self-driving tractors (and cars too, I guess, if you&#39;re into that sort of thing)&lt;/li&gt;
+&lt;li&gt;When computers make ethical decisions&lt;/li&gt;
+&lt;li&gt;Cars as a service&lt;/li&gt;
+&lt;li&gt;What skills will you need?&lt;/li&gt;
+&lt;li&gt;Bringing a product from prototype to market&lt;/li&gt;
+&lt;li&gt;Building a culture of problem solving&lt;/li&gt;
+&lt;li&gt;Education for the future&lt;/li&gt;
+&lt;li&gt;The dark side: security, privacy, data ownership, and utility companies&lt;/li&gt;
+&lt;li&gt;How much is your privacy worth to you&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Desktops =&amp;gt; Internet =&amp;gt; Mobile =&amp;gt; ???&lt;/li&gt;
+&lt;li&gt;The players: Internet of Things, Wearables/Nearables, Arduino/Raspberry Pi, 3D printing, Virtual Reality/Augmented Reality&lt;/li&gt;
+&lt;li&gt;The power of low cost of entry&lt;/li&gt;
+&lt;li&gt;Revolution or evolution?&lt;/li&gt;
+&lt;li&gt;The data&#39;s the thing&lt;/li&gt;
+&lt;li&gt;&amp;quot;What do you mean I can&#39;t turn on my washing machine from my phone?&amp;quot;&lt;/li&gt;
+&lt;li&gt;The widening technology gap&lt;/li&gt;
+&lt;li&gt;Job opportunities&lt;/li&gt;
+&lt;li&gt;Self-driving tractors (and cars too, I guess, if you&#39;re into that sort of thing)&lt;/li&gt;
+&lt;li&gt;When computers make ethical decisions&lt;/li&gt;
+&lt;li&gt;Cars as a service&lt;/li&gt;
+&lt;li&gt;What skills will you need?&lt;/li&gt;
+&lt;li&gt;Bringing a product from prototype to market&lt;/li&gt;
+&lt;li&gt;Building a culture of problem solving&lt;/li&gt;
+&lt;li&gt;Education for the future&lt;/li&gt;
+&lt;li&gt;The dark side: security, privacy, data ownership, and utility companies&lt;/li&gt;
+&lt;li&gt;How much is your privacy worth to you&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/TheFutureOfComputing.mp3" length="48022352" type="audio/mpeg" />
+				
+				<itunes:duration>50:01</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Geek Gifts</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 28 Nov 2015 21:13:38 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-geek-gifts</guid>
+				<description><![CDATA[&lt;h3&gt;Health/Ergonomics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ergodox DIY ergonomic mechanical keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mwelab.com/index.php/en/products/emperor-1510&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Emperor 1510 Workstation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.microsoftstore.com/store/msusa/en_US/pdp/Microsoft-Band-2/productID.324438600&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Microsoft Band 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://buy.garmin.com/en-CA/CA/p/150767&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Garmin vívoactive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Home Automation/Household:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sonos.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sonos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://august.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nest.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.uncommongoods.com/product/bluetooth-tracking-tag&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tracking Tag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meethue.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Philips Hue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flic.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Flic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fun Stuff:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.parrot.com/ca/drones/parrot-bebop-2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bebop Drone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dji.com/product/phantom-3-standard&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Phantom3 Drone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1623255426/fps1000-the-low-cost-high-frame-rate-camera/posts/1411624&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FPS1000 - Low Cost High Frame Rate Camera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.explodingkittens.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Exploding Kittens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hackaball.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hackaball&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sphero.com/starwars&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sphere BB8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lootcrate.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Loot Crate Gift Box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.scotchwhiskyadvent.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scotch Advent Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ianker.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Laptop bags, cables, and chargers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://thingcharger.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ThingCharger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Health/Ergonomics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard#/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Ergodox DIY ergonomic mechanical keyboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mwelab.com/index.php/en/products/emperor-1510&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Emperor 1510 Workstation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.microsoftstore.com/store/msusa/en_US/pdp/Microsoft-Band-2/productID.324438600&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Microsoft Band 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://buy.garmin.com/en-CA/CA/p/150767&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Garmin vívoactive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Home Automation/Household:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sonos.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sonos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://august.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;August&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nest.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.uncommongoods.com/product/bluetooth-tracking-tag&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Tracking Tag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.meethue.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Philips Hue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://flic.io&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Flic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fun Stuff:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.parrot.com/ca/drones/parrot-bebop-2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Bebop Drone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.dji.com/product/phantom-3-standard&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Phantom3 Drone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/1623255426/fps1000-the-low-cost-high-frame-rate-camera/posts/1411624&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;FPS1000 - Low Cost High Frame Rate Camera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.explodingkittens.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Exploding Kittens&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.raspberrypi.org/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hackaball.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hackaball&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.sphero.com/starwars&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Sphere BB8&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lootcrate.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Loot Crate Gift Box&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.scotchwhiskyadvent.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scotch Advent Calendar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Other:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ianker.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Laptop bags, cables, and chargers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://thingcharger.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ThingCharger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/GeekGifts.mp3" length="61995490" type="audio/mpeg" />
+				
+				<itunes:duration>1:04:35</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Zencastr</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 25 Nov 2015 08:47:07 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-zencastr</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The tech and motivation behind Zencastr&lt;/li&gt;
+&lt;li&gt;Evolution of podcast logistics&lt;/li&gt;
+&lt;li&gt;Server architecture and the importance of keeping it small (at first)&lt;/li&gt;
+&lt;li&gt;Post production capabilities&lt;/li&gt;
+&lt;li&gt;Web RTC and ORTC standards&lt;/li&gt;
+&lt;li&gt;Video podcasts - technical and logistical concerns&lt;/li&gt;
+&lt;li&gt;Browser-based vs. desktop apps&lt;/li&gt;
+&lt;li&gt;Hardware for podcasts&lt;/li&gt;
+&lt;li&gt;Gathering feedback&lt;/li&gt;
+&lt;li&gt;Start-up companies: start big or start small?&lt;/li&gt;
+&lt;li&gt;Moving from beta to paid plans&lt;/li&gt;
+&lt;li&gt;Pricing plan options/add-ons&lt;/li&gt;
+&lt;li&gt;Limiting your beta&lt;/li&gt;
+&lt;li&gt;Methods for getting your first users&lt;/li&gt;
+&lt;li&gt;Funding&lt;/li&gt;
+&lt;li&gt;Deciding on features&lt;/li&gt;
+&lt;li&gt;Know your customer&lt;/li&gt;
+&lt;li&gt;Metrics&lt;/li&gt;
+&lt;li&gt;Doing one thing really well&lt;/li&gt;
+&lt;li&gt;Developing for yourself vs. for someone else&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The tech and motivation behind Zencastr&lt;/li&gt;
+&lt;li&gt;Evolution of podcast logistics&lt;/li&gt;
+&lt;li&gt;Server architecture and the importance of keeping it small (at first)&lt;/li&gt;
+&lt;li&gt;Post production capabilities&lt;/li&gt;
+&lt;li&gt;Web RTC and ORTC standards&lt;/li&gt;
+&lt;li&gt;Video podcasts - technical and logistical concerns&lt;/li&gt;
+&lt;li&gt;Browser-based vs. desktop apps&lt;/li&gt;
+&lt;li&gt;Hardware for podcasts&lt;/li&gt;
+&lt;li&gt;Gathering feedback&lt;/li&gt;
+&lt;li&gt;Start-up companies: start big or start small?&lt;/li&gt;
+&lt;li&gt;Moving from beta to paid plans&lt;/li&gt;
+&lt;li&gt;Pricing plan options/add-ons&lt;/li&gt;
+&lt;li&gt;Limiting your beta&lt;/li&gt;
+&lt;li&gt;Methods for getting your first users&lt;/li&gt;
+&lt;li&gt;Funding&lt;/li&gt;
+&lt;li&gt;Deciding on features&lt;/li&gt;
+&lt;li&gt;Know your customer&lt;/li&gt;
+&lt;li&gt;Metrics&lt;/li&gt;
+&lt;li&gt;Doing one thing really well&lt;/li&gt;
+&lt;li&gt;Developing for yourself vs. for someone else&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/Zencastr.mp3" length="43997390" type="audio/mpeg" />
+				
+				<itunes:duration>45:50</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Interviews and Hiring Practices</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 17 Nov 2015 23:56:08 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-interviews-and-hiring-practices</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The purpose (and effectivness) of the initial HR screen&lt;/li&gt;
+&lt;li&gt;Reading from a script&lt;/li&gt;
+&lt;li&gt;The importance of personality fit&lt;/li&gt;
+&lt;li&gt;Benefits/Logistics/Cahellenges of actually working with the candidate as a step in the process&lt;/li&gt;
+&lt;li&gt;Interviewing is a two-way street&lt;/li&gt;
+&lt;li&gt;The probationary period&lt;/li&gt;
+&lt;li&gt;Hiring people you know&lt;/li&gt;
+&lt;li&gt;Interviewing senior vs. junior people&lt;/li&gt;
+&lt;li&gt;Techniques for evaluating technical skill&lt;/li&gt;
+&lt;li&gt;Involving a woman in the technical interview&lt;/li&gt;
+&lt;li&gt;Hiring when you aren&#39;t technical&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The purpose (and effectivness) of the initial HR screen&lt;/li&gt;
+&lt;li&gt;Reading from a script&lt;/li&gt;
+&lt;li&gt;The importance of personality fit&lt;/li&gt;
+&lt;li&gt;Benefits/Logistics/Cahellenges of actually working with the candidate as a step in the process&lt;/li&gt;
+&lt;li&gt;Interviewing is a two-way street&lt;/li&gt;
+&lt;li&gt;The probationary period&lt;/li&gt;
+&lt;li&gt;Hiring people you know&lt;/li&gt;
+&lt;li&gt;Interviewing senior vs. junior people&lt;/li&gt;
+&lt;li&gt;Techniques for evaluating technical skill&lt;/li&gt;
+&lt;li&gt;Involving a woman in the technical interview&lt;/li&gt;
+&lt;li&gt;Hiring when you aren&#39;t technical&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/HiringPractices.mp3" length="42345205" type="audio/mpeg" />
+				
+				<itunes:duration>44:07</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>All About SmartView</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 11 Nov 2015 03:13:26 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-all-about-smartview</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;In this podcast we talk to Amir Barylko about&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kanban&lt;/li&gt;
+&lt;li&gt;The impetus behind SmartView&lt;/li&gt;
+&lt;li&gt;Being a product owner and not a developer&lt;/li&gt;
+&lt;li&gt;Working with a remote team&lt;/li&gt;
+&lt;li&gt;Dealing with user feedback&lt;/li&gt;
+&lt;li&gt;Dogfooding your own product&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;In this podcast we talk to Amir Barylko about&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Kanban&lt;/li&gt;
+&lt;li&gt;The impetus behind SmartView&lt;/li&gt;
+&lt;li&gt;Being a product owner and not a developer&lt;/li&gt;
+&lt;li&gt;Working with a remote team&lt;/li&gt;
+&lt;li&gt;Dealing with user feedback&lt;/li&gt;
+&lt;li&gt;Dogfooding your own product&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/SmartView.mp3" length="43892503" type="audio/mpeg" />
+				
+				<itunes:duration>31:53</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Encouraging and Educating Kids</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 09 Nov 2015 05:12:19 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-encouraging-and-educating-kids</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;Benefits of exposing kids to coding
+Computer classes in schools: the good, the bad, and the ugly
+Coding as a means to overcome fear of technology
+A good teacher vs. a good technologist
+Coding as a means of teaching applied logic and providing career options
+How young is too young?
+Tools to help (see section below)
+Combining interests
+Competing with iPads and XBoxes
+Should coding be taught in schools?
+How to search for stuff on Google
+&amp;quot;Back in my day...&amp;quot;
+The fallacy of game design
+Ending a podcast is hard...&lt;/p&gt;
+&lt;h3&gt;Tools to help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mindstorms.lego.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Lego Mindstorms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kodugamelab.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kodu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://turtleacademy.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Logo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.arduino.cc/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gethopscotch.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hopscotch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hourofcode.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hour of Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://code.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Code.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;p&gt;Benefits of exposing kids to coding
+Computer classes in schools: the good, the bad, and the ugly
+Coding as a means to overcome fear of technology
+A good teacher vs. a good technologist
+Coding as a means of teaching applied logic and providing career options
+How young is too young?
+Tools to help (see section below)
+Combining interests
+Competing with iPads and XBoxes
+Should coding be taught in schools?
+How to search for stuff on Google
+&amp;quot;Back in my day...&amp;quot;
+The fallacy of game design
+Ending a podcast is hard...&lt;/p&gt;
+&lt;h3&gt;Tools to help&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://mindstorms.lego.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Lego Mindstorms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kodugamelab.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Kodu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://turtleacademy.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Logo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.arduino.cc/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Arduino&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gethopscotch.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hopscotch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hourofcode.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hour of Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://code.org&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Code.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/TeachingKids.mp3" length="43892503" type="audio/mpeg" />
+				
+				<itunes:duration>45:43</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Life Outside .NET</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 19 Oct 2015 23:48:10 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-life-outside-net</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What if .NET disappeared tomorrow?&lt;/li&gt;
+&lt;li&gt;Programming vs. architecting vs. project management&lt;/li&gt;
+&lt;li&gt;Other technologies in ASP.NET vNext&lt;/li&gt;
+&lt;li&gt;Working outside Windows?&lt;/li&gt;
+&lt;li&gt;Development and infrastructure issues on Windows vs. non-Windows&lt;/li&gt;
+&lt;li&gt;The importance of patience when diving into a new language/OS/technology/tool&lt;/li&gt;
+&lt;li&gt;Becoming familiar with the command line/PowerShell&lt;/li&gt;
+&lt;li&gt;The ease of getting set up with a new environment using a VM&lt;/li&gt;
+&lt;li&gt;Bash-like terminals in Windows&lt;/li&gt;
+&lt;li&gt;Using deployment as a means of learning new tools&lt;/li&gt;
+&lt;li&gt;Working with ASP.NET vNext without Visual Studio&lt;/li&gt;
+&lt;li&gt;Experimenting with your build script and test projects&lt;/li&gt;
+&lt;li&gt;Conferences/user groups/code retreats as a tool for learning&lt;/li&gt;
+&lt;li&gt;Microsoft&#39;s new direction: chasing a market or listening to the community?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What if .NET disappeared tomorrow?&lt;/li&gt;
+&lt;li&gt;Programming vs. architecting vs. project management&lt;/li&gt;
+&lt;li&gt;Other technologies in ASP.NET vNext&lt;/li&gt;
+&lt;li&gt;Working outside Windows?&lt;/li&gt;
+&lt;li&gt;Development and infrastructure issues on Windows vs. non-Windows&lt;/li&gt;
+&lt;li&gt;The importance of patience when diving into a new language/OS/technology/tool&lt;/li&gt;
+&lt;li&gt;Becoming familiar with the command line/PowerShell&lt;/li&gt;
+&lt;li&gt;The ease of getting set up with a new environment using a VM&lt;/li&gt;
+&lt;li&gt;Bash-like terminals in Windows&lt;/li&gt;
+&lt;li&gt;Using deployment as a means of learning new tools&lt;/li&gt;
+&lt;li&gt;Working with ASP.NET vNext without Visual Studio&lt;/li&gt;
+&lt;li&gt;Experimenting with your build script and test projects&lt;/li&gt;
+&lt;li&gt;Conferences/user groups/code retreats as a tool for learning&lt;/li&gt;
+&lt;li&gt;Microsoft&#39;s new direction: chasing a market or listening to the community?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/LifeOutsideNET.mp3" length="39477170" type="audio/mpeg" />
+				
+				<itunes:duration>41:07</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Refactor vs. Rewrite</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Thu, 15 Oct 2015 04:54:55 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-brownfield-applications</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NetConfUY&lt;/li&gt;
+&lt;li&gt;Dropping into a brownfield application&lt;/li&gt;
+&lt;li&gt;Rewrite vs. refactor&lt;/li&gt;
+&lt;li&gt;Political factors&lt;/li&gt;
+&lt;li&gt;Setting up a safety net&lt;/li&gt;
+&lt;li&gt;What is correct: What the app does or what it should do?&lt;/li&gt;
+&lt;li&gt;The challenge of limiting scope during refactoring&lt;/li&gt;
+&lt;li&gt;The legacy catch-22: You need tests to refactor but you need to refactor before you can write tests&lt;/li&gt;
+&lt;li&gt;Selling a refactoring to your client&lt;/li&gt;
+&lt;li&gt;Identifying risk to your client&lt;/li&gt;
+&lt;li&gt;The Boy Scout Rule: Leave the code better than you found it&lt;/li&gt;
+&lt;li&gt;The refactoring rabbit hole&lt;/li&gt;
+&lt;li&gt;Using metrics to determine where to focus&lt;/li&gt;
+&lt;li&gt;Finding quick wins&lt;/li&gt;
+&lt;li&gt;Strangler pattern to carve off pieces&lt;/li&gt;
+&lt;li&gt;Ensuring the dev team is on board&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NetConfUY&lt;/li&gt;
+&lt;li&gt;Dropping into a brownfield application&lt;/li&gt;
+&lt;li&gt;Rewrite vs. refactor&lt;/li&gt;
+&lt;li&gt;Political factors&lt;/li&gt;
+&lt;li&gt;Setting up a safety net&lt;/li&gt;
+&lt;li&gt;What is correct: What the app does or what it should do?&lt;/li&gt;
+&lt;li&gt;The challenge of limiting scope during refactoring&lt;/li&gt;
+&lt;li&gt;The legacy catch-22: You need tests to refactor but you need to refactor before you can write tests&lt;/li&gt;
+&lt;li&gt;Selling a refactoring to your client&lt;/li&gt;
+&lt;li&gt;Identifying risk to your client&lt;/li&gt;
+&lt;li&gt;The Boy Scout Rule: Leave the code better than you found it&lt;/li&gt;
+&lt;li&gt;The refactoring rabbit hole&lt;/li&gt;
+&lt;li&gt;Using metrics to determine where to focus&lt;/li&gt;
+&lt;li&gt;Finding quick wins&lt;/li&gt;
+&lt;li&gt;Strangler pattern to carve off pieces&lt;/li&gt;
+&lt;li&gt;Ensuring the dev team is on board&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/RefactorRewrite.mp3" length="40960093" type="audio/mpeg" />
+				
+				<itunes:duration>42:40</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Ethics</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 10 Oct 2015 23:32:22 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-ethics</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roundabouts and traffic circles&lt;/li&gt;
+&lt;li&gt;ASP.NET vNext&lt;/li&gt;
+&lt;li&gt;The Volkswagen scandal&lt;/li&gt;
+&lt;li&gt;Personal ethics vs. corporate ethics&lt;/li&gt;
+&lt;li&gt;Moonraker and death rays&lt;/li&gt;
+&lt;li&gt;What is the developer&#39;s responsibility?&lt;/li&gt;
+&lt;li&gt;Marketing tactics vs. outright deception&lt;/li&gt;
+&lt;li&gt;Ashley Madison: Bots and deleting data&lt;/li&gt;
+&lt;li&gt;Which Western Devs to hire for a dating site&lt;/li&gt;
+&lt;li&gt;The developer&#39;s recourse&lt;/li&gt;
+&lt;li&gt;Is it unethical to release software without automated tests?&lt;/li&gt;
+&lt;li&gt;Should there be a software code of ethics?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Roundabouts and traffic circles&lt;/li&gt;
+&lt;li&gt;ASP.NET vNext&lt;/li&gt;
+&lt;li&gt;The Volkswagen scandal&lt;/li&gt;
+&lt;li&gt;Personal ethics vs. corporate ethics&lt;/li&gt;
+&lt;li&gt;Moonraker and death rays&lt;/li&gt;
+&lt;li&gt;What is the developer&#39;s responsibility?&lt;/li&gt;
+&lt;li&gt;Marketing tactics vs. outright deception&lt;/li&gt;
+&lt;li&gt;Ashley Madison: Bots and deleting data&lt;/li&gt;
+&lt;li&gt;Which Western Devs to hire for a dating site&lt;/li&gt;
+&lt;li&gt;The developer&#39;s recourse&lt;/li&gt;
+&lt;li&gt;Is it unethical to release software without automated tests?&lt;/li&gt;
+&lt;li&gt;Should there be a software code of ethics?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/Ethics.mp3" length="43357074" type="audio/mpeg" />
+				
+				<itunes:duration>45:10</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Going Independent</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Thu, 01 Oct 2015 03:07:37 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-going-independent</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Who&#39;s independent around here?&lt;/li&gt;
+&lt;li&gt;Working for a consulting company vs. going through a headhunter vs. doing it yourself&lt;/li&gt;
+&lt;li&gt;Reasons for going independent&lt;/li&gt;
+&lt;li&gt;Pros and cons of independence vs. working for a consultant&lt;/li&gt;
+&lt;li&gt;Managing the marketing and branding&lt;/li&gt;
+&lt;li&gt;How to tell when it&#39;s not working&lt;/li&gt;
+&lt;li&gt;The financial realities of independence&lt;/li&gt;
+&lt;li&gt;The challenges of running your own business&lt;/li&gt;
+&lt;li&gt;How to make the leap&lt;/li&gt;
+&lt;li&gt;Travelling for contracts&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Who&#39;s independent around here?&lt;/li&gt;
+&lt;li&gt;Working for a consulting company vs. going through a headhunter vs. doing it yourself&lt;/li&gt;
+&lt;li&gt;Reasons for going independent&lt;/li&gt;
+&lt;li&gt;Pros and cons of independence vs. working for a consultant&lt;/li&gt;
+&lt;li&gt;Managing the marketing and branding&lt;/li&gt;
+&lt;li&gt;How to tell when it&#39;s not working&lt;/li&gt;
+&lt;li&gt;The financial realities of independence&lt;/li&gt;
+&lt;li&gt;The challenges of running your own business&lt;/li&gt;
+&lt;li&gt;How to make the leap&lt;/li&gt;
+&lt;li&gt;Travelling for contracts&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/GoingIndependent.mp3" length="46166206" type="audio/mpeg" />
+				
+				<itunes:duration>48:05</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Kanban</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Sat, 19 Sep 2015 23:46:54 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-kanban</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition(s) of Kanban&lt;/li&gt;
+&lt;li&gt;Layering Kanban onto an existing process&lt;/li&gt;
+&lt;li&gt;Model first, then improve&lt;/li&gt;
+&lt;li&gt;Using Kanban with Scrum&lt;/li&gt;
+&lt;li&gt;The importance of visualization&lt;/li&gt;
+&lt;li&gt;Work-in-process limits&lt;/li&gt;
+&lt;li&gt;Metrics for WIP limits&lt;/li&gt;
+&lt;li&gt;Relationship among Lean and Agile and Kanban&lt;/li&gt;
+&lt;li&gt;Identifying and eliminating waste&lt;/li&gt;
+&lt;li&gt;Empowering your team&lt;/li&gt;
+&lt;li&gt;Where Kanban doesn&#39;t work&lt;/li&gt;
+&lt;li&gt;Kanban as a mindset rather than a process&lt;/li&gt;
+&lt;li&gt;Determining success of Kanban&lt;/li&gt;
+&lt;li&gt;Lead time&lt;/li&gt;
+&lt;li&gt;Kanban in distributed teams&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.westerndevs.com/bios/amir_barylko/&quot;&gt;Amir&#39;s&lt;/a&gt; motivation to build SmartView&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Definition(s) of Kanban&lt;/li&gt;
+&lt;li&gt;Layering Kanban onto an existing process&lt;/li&gt;
+&lt;li&gt;Model first, then improve&lt;/li&gt;
+&lt;li&gt;Using Kanban with Scrum&lt;/li&gt;
+&lt;li&gt;The importance of visualization&lt;/li&gt;
+&lt;li&gt;Work-in-process limits&lt;/li&gt;
+&lt;li&gt;Metrics for WIP limits&lt;/li&gt;
+&lt;li&gt;Relationship among Lean and Agile and Kanban&lt;/li&gt;
+&lt;li&gt;Identifying and eliminating waste&lt;/li&gt;
+&lt;li&gt;Empowering your team&lt;/li&gt;
+&lt;li&gt;Where Kanban doesn&#39;t work&lt;/li&gt;
+&lt;li&gt;Kanban as a mindset rather than a process&lt;/li&gt;
+&lt;li&gt;Determining success of Kanban&lt;/li&gt;
+&lt;li&gt;Lead time&lt;/li&gt;
+&lt;li&gt;Kanban in distributed teams&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.westerndevs.com/bios/amir_barylko/&quot;&gt;Amir&#39;s&lt;/a&gt; motivation to build SmartView&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/Kanban.mp3" length="48603716" type="audio/mpeg" />
+				
+				<itunes:duration>50:38</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Work/Life Balance</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 09 Sep 2015 09:03:30 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-work-life-balance</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Why are we still talking about work/life balance in 2015?&lt;/li&gt;
+&lt;li&gt;Your balance != someone else&#39;s balance&lt;/li&gt;
+&lt;li&gt;The four pillars of balance: family, self, work, community&lt;/li&gt;
+&lt;li&gt;Recognizing when lines blur between pillars&lt;/li&gt;
+&lt;li&gt;Commitment and obligation&lt;/li&gt;
+&lt;li&gt;The digital sabbath: disconnecting&lt;/li&gt;
+&lt;li&gt;Stories of burnout&lt;/li&gt;
+&lt;li&gt;Maintaining balance while working from home&lt;/li&gt;
+&lt;li&gt;&amp;quot;I&#39;m not available right now&amp;quot;&lt;/li&gt;
+&lt;li&gt;Isolation and location of your office&lt;/li&gt;
+&lt;li&gt;&amp;quot;Going&amp;quot; to work when you don&#39;t need to &lt;em&gt;go&lt;/em&gt; to work&lt;/li&gt;
+&lt;li&gt;Disengaging at the end of the day&lt;/li&gt;
+&lt;li&gt;Technology that helps work/life balance&lt;/li&gt;
+&lt;li&gt;What do you do in your downtime?&lt;/li&gt;
+&lt;li&gt;Know when to make adjustments&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Why are we still talking about work/life balance in 2015?&lt;/li&gt;
+&lt;li&gt;Your balance != someone else&#39;s balance&lt;/li&gt;
+&lt;li&gt;The four pillars of balance: family, self, work, community&lt;/li&gt;
+&lt;li&gt;Recognizing when lines blur between pillars&lt;/li&gt;
+&lt;li&gt;Commitment and obligation&lt;/li&gt;
+&lt;li&gt;The digital sabbath: disconnecting&lt;/li&gt;
+&lt;li&gt;Stories of burnout&lt;/li&gt;
+&lt;li&gt;Maintaining balance while working from home&lt;/li&gt;
+&lt;li&gt;&amp;quot;I&#39;m not available right now&amp;quot;&lt;/li&gt;
+&lt;li&gt;Isolation and location of your office&lt;/li&gt;
+&lt;li&gt;&amp;quot;Going&amp;quot; to work when you don&#39;t need to &lt;em&gt;go&lt;/em&gt; to work&lt;/li&gt;
+&lt;li&gt;Disengaging at the end of the day&lt;/li&gt;
+&lt;li&gt;Technology that helps work/life balance&lt;/li&gt;
+&lt;li&gt;What do you do in your downtime?&lt;/li&gt;
+&lt;li&gt;Know when to make adjustments&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/WorkLifeBalance.mp3" length="41543561" type="audio/mpeg" />
+				
+				<itunes:duration>43:16</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>No Estimates</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 02 Sep 2015 03:42:12 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-no-estimates</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do we estimate?&lt;/li&gt;
+&lt;li&gt;Why do our estimates suck?&lt;/li&gt;
+&lt;li&gt;&amp;quot;Wah, wah, wah, estimating is hard!&amp;quot;&lt;/li&gt;
+&lt;li&gt;The #NoEstimates movement&lt;/li&gt;
+&lt;li&gt;Estimates vs commitments&lt;/li&gt;
+&lt;li&gt;Measuring your past to forecast your future&lt;/li&gt;
+&lt;li&gt;Building in chunks to create forecast data&lt;/li&gt;
+&lt;li&gt;#NoEstimates == Informated estimating?&lt;/li&gt;
+&lt;li&gt;Right-sizing user stories/Law of averages&lt;/li&gt;
+&lt;li&gt;Alternatives to story points for estimating&lt;/li&gt;
+&lt;li&gt;Probabilistic forecasting&lt;/li&gt;
+&lt;li&gt;Planning poker: Creating a common understanding&lt;/li&gt;
+&lt;li&gt;Acceptance criteria&lt;/li&gt;
+&lt;li&gt;Setting expectations with clients for &amp;quot;No Estimates&amp;quot;&lt;/li&gt;
+&lt;li&gt;Gaining trust with a client as an alternative to providing estimates&lt;/li&gt;
+&lt;li&gt;Understanding &lt;em&gt;why&lt;/em&gt; estimates are needed to determine &lt;em&gt;if&lt;/em&gt; they&#39;re needed&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Why do we estimate?&lt;/li&gt;
+&lt;li&gt;Why do our estimates suck?&lt;/li&gt;
+&lt;li&gt;&amp;quot;Wah, wah, wah, estimating is hard!&amp;quot;&lt;/li&gt;
+&lt;li&gt;The #NoEstimates movement&lt;/li&gt;
+&lt;li&gt;Estimates vs commitments&lt;/li&gt;
+&lt;li&gt;Measuring your past to forecast your future&lt;/li&gt;
+&lt;li&gt;Building in chunks to create forecast data&lt;/li&gt;
+&lt;li&gt;#NoEstimates == Informated estimating?&lt;/li&gt;
+&lt;li&gt;Right-sizing user stories/Law of averages&lt;/li&gt;
+&lt;li&gt;Alternatives to story points for estimating&lt;/li&gt;
+&lt;li&gt;Probabilistic forecasting&lt;/li&gt;
+&lt;li&gt;Planning poker: Creating a common understanding&lt;/li&gt;
+&lt;li&gt;Acceptance criteria&lt;/li&gt;
+&lt;li&gt;Setting expectations with clients for &amp;quot;No Estimates&amp;quot;&lt;/li&gt;
+&lt;li&gt;Gaining trust with a client as an alternative to providing estimates&lt;/li&gt;
+&lt;li&gt;Understanding &lt;em&gt;why&lt;/em&gt; estimates are needed to determine &lt;em&gt;if&lt;/em&gt; they&#39;re needed&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/NoEstimates.mp3" length="57405212" type="audio/mpeg" />
+				
+				<itunes:duration>47:50</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Internal Open Source</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 24 Aug 2015 02:00:37 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-internal-open-source</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is &amp;quot;internal open source&amp;quot; or &amp;quot;internal shared source&amp;quot;?&lt;/li&gt;
+&lt;li&gt;Sharing libraries (via a shared package server) vs. shared source&lt;/li&gt;
+&lt;li&gt;The importance of a manager for an internally shared project&lt;/li&gt;
+&lt;li&gt;Open source vs. traditional corporate: switching to a sharing culture&lt;/li&gt;
+&lt;li&gt;Who&#39;s responsible for this feature?&lt;/li&gt;
+&lt;li&gt;The need for open communication when sharing code: Can I add this feature to your code?&lt;/li&gt;
+&lt;li&gt;How can you sell shared source to your boss?&lt;/li&gt;
+&lt;li&gt;Cross collaboration and moving to shared engineering standards&lt;/li&gt;
+&lt;li&gt;Exposing your code to the company: scary or beneficial&lt;/li&gt;
+&lt;li&gt;Risks of sharing your code&lt;/li&gt;
+&lt;li&gt;Proper management of forks and pull requests&lt;/li&gt;
+&lt;li&gt;The .NET Core&#39;s PR review meetings&lt;/li&gt;
+&lt;li&gt;Staged approach to implementing internal shared source: open up your own project first&lt;/li&gt;
+&lt;li&gt;Legal concerns about sharing your code outside your immediate team&lt;/li&gt;
+&lt;li&gt;Is your code really useful to anyone else?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is &amp;quot;internal open source&amp;quot; or &amp;quot;internal shared source&amp;quot;?&lt;/li&gt;
+&lt;li&gt;Sharing libraries (via a shared package server) vs. shared source&lt;/li&gt;
+&lt;li&gt;The importance of a manager for an internally shared project&lt;/li&gt;
+&lt;li&gt;Open source vs. traditional corporate: switching to a sharing culture&lt;/li&gt;
+&lt;li&gt;Who&#39;s responsible for this feature?&lt;/li&gt;
+&lt;li&gt;The need for open communication when sharing code: Can I add this feature to your code?&lt;/li&gt;
+&lt;li&gt;How can you sell shared source to your boss?&lt;/li&gt;
+&lt;li&gt;Cross collaboration and moving to shared engineering standards&lt;/li&gt;
+&lt;li&gt;Exposing your code to the company: scary or beneficial&lt;/li&gt;
+&lt;li&gt;Risks of sharing your code&lt;/li&gt;
+&lt;li&gt;Proper management of forks and pull requests&lt;/li&gt;
+&lt;li&gt;The .NET Core&#39;s PR review meetings&lt;/li&gt;
+&lt;li&gt;Staged approach to implementing internal shared source: open up your own project first&lt;/li&gt;
+&lt;li&gt;Legal concerns about sharing your code outside your immediate team&lt;/li&gt;
+&lt;li&gt;Is your code really useful to anyone else?&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/InternalOpenSource.mp3" length="51937269" type="audio/mpeg" />
+				
+				<itunes:duration>43:17</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>The Repository Pattern</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 04 Aug 2015 19:55:26 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-the-repository-pattern</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the Repository Pattern?&lt;/li&gt;
+&lt;li&gt;Where should the business logic go?&lt;/li&gt;
+&lt;li&gt;Explosion of methods on repositories and the Interface Segregation Principle&lt;/li&gt;
+&lt;li&gt;Testing repositories: integration vs. unit&lt;/li&gt;
+&lt;li&gt;Transactions: Are they a database or business concern?&lt;/li&gt;
+&lt;li&gt;Eager vs. lazy loading: The N+1 problem&lt;/li&gt;
+&lt;li&gt;Extension methods and query objects as an alternative&lt;/li&gt;
+&lt;li&gt;The misuse of reuse: &amp;quot;Hey, this looks like it does what I need it to do&amp;quot;&lt;/li&gt;
+&lt;li&gt;The Double Dispatch Pattern&lt;/li&gt;
+&lt;li&gt;Managing transactions and eventual consistency in distributed systems&lt;/li&gt;
+&lt;li&gt;Eventual inconsistency in the real world&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;What is the Repository Pattern?&lt;/li&gt;
+&lt;li&gt;Where should the business logic go?&lt;/li&gt;
+&lt;li&gt;Explosion of methods on repositories and the Interface Segregation Principle&lt;/li&gt;
+&lt;li&gt;Testing repositories: integration vs. unit&lt;/li&gt;
+&lt;li&gt;Transactions: Are they a database or business concern?&lt;/li&gt;
+&lt;li&gt;Eager vs. lazy loading: The N+1 problem&lt;/li&gt;
+&lt;li&gt;Extension methods and query objects as an alternative&lt;/li&gt;
+&lt;li&gt;The misuse of reuse: &amp;quot;Hey, this looks like it does what I need it to do&amp;quot;&lt;/li&gt;
+&lt;li&gt;The Double Dispatch Pattern&lt;/li&gt;
+&lt;li&gt;Managing transactions and eventual consistency in distributed systems&lt;/li&gt;
+&lt;li&gt;Eventual inconsistency in the real world&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/RepositoryPattern.mp3" length="57742198" type="audio/mpeg" />
+				
+				<itunes:duration>48:07</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>DevOps</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Tue, 21 Jul 2015 19:55:26 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-devops</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DevOps: Person, role, culture, methodology, or movement?&lt;/li&gt;
+&lt;li&gt;The importance of collaboration and communication&lt;/li&gt;
+&lt;li&gt;Automation, continuous delivery/continuous deployment: are they required for DevOps?&lt;/li&gt;
+&lt;li&gt;What happens to your code after you commit?&lt;/li&gt;
+&lt;li&gt;Attitude defines your culture, not the other way around&lt;/li&gt;
+&lt;li&gt;DevOps is &lt;em&gt;not&lt;/em&gt; a developer that does operational tasks&lt;/li&gt;
+&lt;li&gt;Is the backlash coming? Lessons from Agile&lt;/li&gt;
+&lt;li&gt;An incremental approach to implementing DevOps practices in an organization&lt;/li&gt;
+&lt;li&gt;Security benefits of being able to release often&lt;/li&gt;
+&lt;li&gt;Metrics, logging, statistics, monitoring: what happens after you release?&lt;/li&gt;
+&lt;li&gt;Is quality dead? If so, can DevOps fix it?&lt;/li&gt;
+&lt;li&gt;Does DevOps change how you code? No-downtime deployments, A/B testing and feature toggles&lt;/li&gt;
+&lt;li&gt;Enabling smaller deployments that use external services&lt;/li&gt;
+&lt;li&gt;How DevOps practices make CQRS, eventing, and microservices easier&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DevOps: Person, role, culture, methodology, or movement?&lt;/li&gt;
+&lt;li&gt;The importance of collaboration and communication&lt;/li&gt;
+&lt;li&gt;Automation, continuous delivery/continuous deployment: are they required for DevOps?&lt;/li&gt;
+&lt;li&gt;What happens to your code after you commit?&lt;/li&gt;
+&lt;li&gt;Attitude defines your culture, not the other way around&lt;/li&gt;
+&lt;li&gt;DevOps is &lt;em&gt;not&lt;/em&gt; a developer that does operational tasks&lt;/li&gt;
+&lt;li&gt;Is the backlash coming? Lessons from Agile&lt;/li&gt;
+&lt;li&gt;An incremental approach to implementing DevOps practices in an organization&lt;/li&gt;
+&lt;li&gt;Security benefits of being able to release often&lt;/li&gt;
+&lt;li&gt;Metrics, logging, statistics, monitoring: what happens after you release?&lt;/li&gt;
+&lt;li&gt;Is quality dead? If so, can DevOps fix it?&lt;/li&gt;
+&lt;li&gt;Does DevOps change how you code? No-downtime deployments, A/B testing and feature toggles&lt;/li&gt;
+&lt;li&gt;Enabling smaller deployments that use external services&lt;/li&gt;
+&lt;li&gt;How DevOps practices make CQRS, eventing, and microservices easier&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/DevOps.mp3" length="62319361" type="audio/mpeg" />
+				
+				<itunes:duration>51:55</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>The Internet of Things</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Mon, 13 Jul 2015 22:47:49 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-the-internet-of-things</guid>
+				<description><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is Internet of Things SCADA without the pomp and circumstance?&lt;/li&gt;
+&lt;li&gt;Security (and lack there of) in internet-enabled devices&lt;/li&gt;
+&lt;li&gt;Connecting devices together and the short-sightedness of proprietary access&lt;/li&gt;
+&lt;li&gt;Off-the-shelf vs. build-your-own&lt;/li&gt;
+&lt;li&gt;Encouraging good behaviour and learning through internet-enabled devices&lt;/li&gt;
+&lt;li&gt;Advantages (and risks) in the health industry&lt;/li&gt;
+&lt;li&gt;&amp;quot;See a need, fill a need&amp;quot;: Sump pumps and coffeepots&lt;/li&gt;
+&lt;li&gt;Does the light &lt;em&gt;really&lt;/em&gt; go out when you close the fridge?&lt;/li&gt;
+&lt;li&gt;Accessibility of hardware to software people and vice versa&lt;/li&gt;
+&lt;/ul&gt;
+!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[&lt;h3&gt;Synopsis&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Is Internet of Things SCADA without the pomp and circumstance?&lt;/li&gt;
+&lt;li&gt;Security (and lack there of) in internet-enabled devices&lt;/li&gt;
+&lt;li&gt;Connecting devices together and the short-sightedness of proprietary access&lt;/li&gt;
+&lt;li&gt;Off-the-shelf vs. build-your-own&lt;/li&gt;
+&lt;li&gt;Encouraging good behaviour and learning through internet-enabled devices&lt;/li&gt;
+&lt;li&gt;Advantages (and risks) in the health industry&lt;/li&gt;
+&lt;li&gt;&amp;quot;See a need, fill a need&amp;quot;: Sump pumps and coffeepots&lt;/li&gt;
+&lt;li&gt;Does the light &lt;em&gt;really&lt;/em&gt; go out when you close the fridge?&lt;/li&gt;
+&lt;li&gt;Accessibility of hardware to software people and vice versa&lt;/li&gt;
+&lt;/ul&gt;
+!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/InternetOfThings.mp3" length="55153989" type="audio/mpeg" />
+				
+				<itunes:duration>45:57</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+			<item>
+				<title>Microservices</title>
+				<link>http://www.westerndevs.com</link>
+				<pubDate>Wed, 08 Jul 2015 00:54:52 +00:00</pubDate>
+				<guid>http://www.westerndevs.com/podcasts/podcast-microservices</guid>
+				<description><![CDATA[!]]></description>
+				<itunes:author>Western Devs</itunes:author>
+				<itunes:subtitle></itunes:subtitle>
+				<itunes:summary><![CDATA[!]]></itunes:summary>
+				
+				<enclosure url="http://traffic.libsyn.com/westerndevspodcast/Microservices.mp3" length="51810324" type="audio/mpeg" />
+				
+				<itunes:duration>53:58</itunes:duration>
+				<itunes:explicit>No</itunes:explicit>
+			</item>
+		
+	</channel> 
+</rss>
